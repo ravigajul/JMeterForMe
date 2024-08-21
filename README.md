@@ -1,5 +1,13 @@
 # JMeterForMe
   https://university.blazemeter.com/
+  On Installing Jmeter you would see the below files in installation location
+  1. /bin: Contains Jmeter script file for starting Jmeter
+  2. /docs: Jmeter documentation files
+  3. /extras: related extra files
+  4. /lib/: Contains the required java library for Jmeter
+  5. /lib/ext: contains the core jar files for JMeter and the protocols
+  6. /lib/junit: Junit library use for JMeter
+  7. /printable_docs:
 # Old Style
     Download plugins from https://jmeter-plugins.org/ 
     Unzip and place the files in ./lib/ext  
