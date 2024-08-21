@@ -1,5 +1,6 @@
 # JMeterForMe
   https://university.blazemeter.com/
+  On mac brew info jemeter to get path : /opt/homebrew/jmeterCellar/jmeter/5.6.3/bin/jmeter
   On Installing Jmeter you would see the below files in installation location
   1. /bin: Contains Jmeter script file for starting Jmeter
   2. /docs: Jmeter documentation files
